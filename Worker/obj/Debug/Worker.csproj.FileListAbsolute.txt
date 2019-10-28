@@ -1,0 +1,7 @@
+C:\Users\nikos\source\repos\ISMOOP\Worker\bin\Debug\Worker.exe.config
+C:\Users\nikos\source\repos\ISMOOP\Worker\bin\Debug\Worker.exe
+C:\Users\nikos\source\repos\ISMOOP\Worker\bin\Debug\Worker.pdb
+C:\Users\nikos\source\repos\ISMOOP\Worker\obj\Debug\Worker.csprojAssemblyReference.cache
+C:\Users\nikos\source\repos\ISMOOP\Worker\obj\Debug\Worker.csproj.CoreCompileInputs.cache
+C:\Users\nikos\source\repos\ISMOOP\Worker\obj\Debug\Worker.exe
+C:\Users\nikos\source\repos\ISMOOP\Worker\obj\Debug\Worker.pdb

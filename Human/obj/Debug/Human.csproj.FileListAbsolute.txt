@@ -1,0 +1,7 @@
+C:\Users\nikos\source\repos\ISMOOP\Human\obj\Debug\Human.csprojAssemblyReference.cache
+C:\Users\nikos\source\repos\ISMOOP\Human\obj\Debug\Human.csproj.CoreCompileInputs.cache
+C:\Users\nikos\source\repos\ISMOOP\Human\bin\Debug\Human.exe.config
+C:\Users\nikos\source\repos\ISMOOP\Human\bin\Debug\Human.exe
+C:\Users\nikos\source\repos\ISMOOP\Human\bin\Debug\Human.pdb
+C:\Users\nikos\source\repos\ISMOOP\Human\obj\Debug\Human.exe
+C:\Users\nikos\source\repos\ISMOOP\Human\obj\Debug\Human.pdb
