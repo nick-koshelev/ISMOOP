@@ -1,0 +1,10 @@
+C:\Users\nikos\source\repos\ISMOOP\OOPDraw\obj\Debug\OOPDraw.csprojAssemblyReference.cache
+C:\Users\nikos\source\repos\ISMOOP\OOPDraw\obj\Debug\OOPDraw.Form1.resources
+C:\Users\nikos\source\repos\ISMOOP\OOPDraw\obj\Debug\OOPDraw.Properties.Resources.resources
+C:\Users\nikos\source\repos\ISMOOP\OOPDraw\obj\Debug\OOPDraw.csproj.GenerateResource.cache
+C:\Users\nikos\source\repos\ISMOOP\OOPDraw\obj\Debug\OOPDraw.csproj.CoreCompileInputs.cache
+C:\Users\nikos\source\repos\ISMOOP\OOPDraw\bin\Debug\OOPDraw.exe.config
+C:\Users\nikos\source\repos\ISMOOP\OOPDraw\bin\Debug\OOPDraw.exe
+C:\Users\nikos\source\repos\ISMOOP\OOPDraw\bin\Debug\OOPDraw.pdb
+C:\Users\nikos\source\repos\ISMOOP\OOPDraw\obj\Debug\OOPDraw.exe
+C:\Users\nikos\source\repos\ISMOOP\OOPDraw\obj\Debug\OOPDraw.pdb
