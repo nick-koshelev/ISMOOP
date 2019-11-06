@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Worker", "Worker\Worker.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Human", "Human\Human.csproj", "{9B53FB69-F51C-4CF4-8A59-4C7636D4B735}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPDraw", "OOPDraw\OOPDraw.csproj", "{1EDBB9C4-D7DD-4188-9528-776E3C389B15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9B53FB69-F51C-4CF4-8A59-4C7636D4B735}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B53FB69-F51C-4CF4-8A59-4C7636D4B735}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B53FB69-F51C-4CF4-8A59-4C7636D4B735}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EDBB9C4-D7DD-4188-9528-776E3C389B15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EDBB9C4-D7DD-4188-9528-776E3C389B15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EDBB9C4-D7DD-4188-9528-776E3C389B15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EDBB9C4-D7DD-4188-9528-776E3C389B15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
