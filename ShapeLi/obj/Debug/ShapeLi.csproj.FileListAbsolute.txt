@@ -1,0 +1,6 @@
+C:\Users\nikos\source\repos\ISMOOP\ShapeLi\bin\Debug\ShapeLi.dll
+C:\Users\nikos\source\repos\ISMOOP\ShapeLi\bin\Debug\ShapeLi.pdb
+C:\Users\nikos\source\repos\ISMOOP\ShapeLi\obj\Debug\ShapeLi.csprojAssemblyReference.cache
+C:\Users\nikos\source\repos\ISMOOP\ShapeLi\obj\Debug\ShapeLi.csproj.CoreCompileInputs.cache
+C:\Users\nikos\source\repos\ISMOOP\ShapeLi\obj\Debug\ShapeLi.dll
+C:\Users\nikos\source\repos\ISMOOP\ShapeLi\obj\Debug\ShapeLi.pdb

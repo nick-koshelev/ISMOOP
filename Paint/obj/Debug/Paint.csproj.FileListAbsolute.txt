@@ -1,0 +1,13 @@
+C:\Users\nikos\source\repos\ISMOOP\Paint\bin\Debug\Paint.exe.config
+C:\Users\nikos\source\repos\ISMOOP\Paint\bin\Debug\Paint.exe
+C:\Users\nikos\source\repos\ISMOOP\Paint\bin\Debug\Paint.pdb
+C:\Users\nikos\source\repos\ISMOOP\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+C:\Users\nikos\source\repos\ISMOOP\Paint\obj\Debug\Paint.Form1.resources
+C:\Users\nikos\source\repos\ISMOOP\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\nikos\source\repos\ISMOOP\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+C:\Users\nikos\source\repos\ISMOOP\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\nikos\source\repos\ISMOOP\Paint\obj\Debug\Paint.exe
+C:\Users\nikos\source\repos\ISMOOP\Paint\obj\Debug\Paint.pdb
+C:\Users\nikos\source\repos\ISMOOP\Paint\bin\Debug\ShapeLi.dll
+C:\Users\nikos\source\repos\ISMOOP\Paint\bin\Debug\ShapeLi.pdb
+C:\Users\nikos\source\repos\ISMOOP\Paint\obj\Debug\Paint.csproj.CopyComplete
